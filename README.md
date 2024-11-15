@@ -1,2 +1,2 @@
 # test_deploy
-django aws deploy
+django aws deploy test
